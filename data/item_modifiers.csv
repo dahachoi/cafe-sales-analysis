@@ -1,0 +1,953 @@
+category,item_name,modifier_name,modifier_sold,modifier_amount
+Basic Espresso,Latte - Medium,Make with Non-Fat Milk,79.0,0.0
+Basic Espresso,Latte - Medium,Make with Almond Milk,26.0,31.0
+Basic Espresso,Latte - Medium,Make with Oat Milk,173.0,205.4
+Basic Espresso,Latte - Medium,Make with Soy Milk,26.0,31.2
+Basic Espresso,Latte - Medium,Cinnamon,25.0,0.0
+Basic Espresso,Latte - Medium,Not too Hot,1.0,0.0
+Basic Espresso,Latte - Medium,Extra Hot,14.0,0.0
+Basic Espresso,Latte - Medium,Iced,2.0,0.0
+Basic Espresso,Latte - Medium,Regular (Full Caf),16.0,0.0
+Basic Espresso,Latte - Medium,Decaf,106.0,0.0
+Basic Espresso,Latte - Medium,Half Caf,12.0,0.0
+Basic Espresso,Latte - Medium,Single Shot (1 extra),4.0,5.2
+Basic Espresso,Latte - Medium,Caramel,20.0,15.5
+Basic Espresso,Latte - Medium,Vanilla,85.0,67.25
+Basic Espresso,Latte - Medium,Maple,2.0,1.75
+Basic Espresso,Latte - Medium,Hazelnut,10.0,7.5
+Basic Espresso,Latte - Medium,Vanila Sugar Free,20.0,15.0
+Basic Espresso,Latte - Medium,Peppermint,25.0,18.75
+Basic Espresso,Latte - Medium,Lavander,8.0,6.0
+Basic Espresso,Latte - Medium,No Foam,20.0,0.0
+Basic Espresso,Latte - Medium,Extra Foam (Dry),1.0,0.0
+Basic Espresso,Latte - Medium,Make with Coconut Milk,2.0,2.4
+Basic Espresso,Latte - Medium,Pumpkin Spice,1.0,1.0
+Basic Espresso,Latte - Medium,Brown Sugar,1.0,0.0
+Basic Espresso,Latte - Medium,Organic Pure Honey,1.0,0.5
+Basic Espresso,Latte - Large,Make with Non-Fat Milk,118.0,0.0
+Basic Espresso,Latte - Large,Make with Almond Milk,38.0,44.6
+Basic Espresso,Latte - Large,Make with Oat Milk,103.0,123.4
+Basic Espresso,Latte - Large,Cinnamon,10.0,0.0
+Basic Espresso,Latte - Large,Sprinkles,2.0,0.5
+Basic Espresso,Latte - Large,Not too Hot,10.0,0.0
+Basic Espresso,Latte - Large,Extra Hot,16.0,0.0
+Basic Espresso,Latte - Large,Hot,1.0,0.0
+Basic Espresso,Latte - Large,Iced,55.0,0.0
+Basic Espresso,Latte - Large,light ice,1.0,0.0
+Basic Espresso,Latte - Large,Regular (Full Caf),49.0,0.0
+Basic Espresso,Latte - Large,Decaf,62.0,0.0
+Basic Espresso,Latte - Large,Half Caf,6.0,0.0
+Basic Espresso,Latte - Large,Single Shot (1 extra),39.0,50.7
+Basic Espresso,Latte - Large,Triple Shots (3 extra),1.0,3.0
+Basic Espresso,Latte - Large,Vanilla,193.0,149.75
+Basic Espresso,Latte - Large,Caramel,37.0,29.25
+Basic Espresso,Latte - Large,Maple,3.0,2.75
+Basic Espresso,Latte - Large,Hazelnut,25.0,19.5
+Basic Espresso,Latte - Large,Vanilla Sugar Free,1.0,0.75
+Basic Espresso,Latte - Large,Vanila Sugar Free,25.0,19.5
+Basic Espresso,Latte - Large,Lavander,12.0,9.0
+Basic Espresso,Latte - Large,Peppermint,25.0,18.75
+Basic Espresso,Latte - Large,No Foam,8.0,0.0
+Basic Espresso,Latte - Large,Make with Coconut Milk,8.0,9.6
+Basic Espresso,Latte - Large,Make with Soy Milk,29.0,33.8
+Basic Espresso,Latte - Large,Pumpkin Spice,1.0,1.0
+Basic Espresso,Americano - Medium,Add Regular Milk,6.0,0.0
+Basic Espresso,Americano - Medium,Add Cream,9.0,0.0
+Basic Espresso,Americano - Medium,Make it Jus' Black,8.0,0.0
+Basic Espresso,Americano - Medium,Add Almond Milk,9.0,0.0
+Basic Espresso,Americano - Medium,Add Coconut Milk,2.0,0.0
+Basic Espresso,Americano - Medium,Add Oat Milk,30.0,0.0
+Basic Espresso,Americano - Medium,Cinnamon,44.0,0.0
+Basic Espresso,Americano - Medium,Whip Cream,1.0,0.0
+Basic Espresso,Americano - Medium,Regular (Full Caf),19.0,0.0
+Basic Espresso,Americano - Medium,Decaf,143.0,0.0
+Basic Espresso,Americano - Medium,Half Caf,7.0,0.0
+Basic Espresso,Americano - Medium,Single Shot (1 extra),6.0,7.8
+Basic Espresso,Americano - Medium,Double Shots (2 extra),2.0,3.0
+Basic Espresso,Americano - Medium,Vanilla,4.0,3.25
+Basic Espresso,Americano - Medium,Pumpkin Spice,2.0,1.75
+Basic Espresso,Americano - Medium,Peppermint,2.0,1.5
+Basic Espresso,Americano - Medium,Room for Cream/Milk,46.0,0.0
+Basic Espresso,Americano - Medium,Splash of Cream,2.0,0.0
+Basic Espresso,Americano - Medium,Splash of Non-fat Milk,10.0,0.0
+Basic Espresso,Americano - Medium,Splash of Almond Milk,24.0,0.0
+Basic Espresso,Americano - Medium,Splash of Coconut Milk,6.0,0.0
+Basic Espresso,Americano - Medium,Splash of Oat Milk,92.0,0.0
+Basic Espresso,Americano - Medium,Splash of Milk,2.0,0.0
+Basic Espresso,Americano - Medium,Splash of Soy Milk,9.0,0.0
+Basic Espresso,Americano - Medium,Caramel,1.0,1.0
+Basic Espresso,Americano - Medium,Hazelnut,1.0,1.0
+Basic Espresso,Americano - Medium,Pure Cane Sugar,1.0,0.0
+Basic Espresso,Americano - Medium,No Sugar,1.0,0.0
+Basic Espresso,Americano - Large,Add Coconut Milk,1.0,0.0
+Basic Espresso,Americano - Large,Add Oat Milk,3.0,0.0
+Basic Espresso,Americano - Large,Whip Cream,1.0,0.0
+Basic Espresso,Americano - Large,Hot,1.0,0.0
+Basic Espresso,Americano - Large,Iced,7.0,0.0
+Basic Espresso,Americano - Large,Regular (Full Caf),2.0,0.0
+Basic Espresso,Americano - Large,Decaf,69.0,0.0
+Basic Espresso,Americano - Large,Half Caf,2.0,0.0
+Basic Espresso,Americano - Large,Single Shot (1 extra),17.0,22.1
+Basic Espresso,Americano - Large,Double Shots (2 extra),6.0,10.0
+Basic Espresso,Americano - Large,Vanilla,5.0,3.75
+Basic Espresso,Americano - Large,Hazelnut,4.0,3.0
+Basic Espresso,Americano - Large,Vanila Sugar Free,2.0,1.5
+Basic Espresso,Americano - Large,Room for Cream/Milk,35.0,0.0
+Basic Espresso,Americano - Large,Splash of Cream,3.0,0.0
+Basic Espresso,Americano - Large,Splash of Non-fat Milk,5.0,0.0
+Basic Espresso,Americano - Large,Splash of Almond Milk,27.0,0.0
+Basic Espresso,Americano - Large,Splash of Coconut Milk,2.0,0.0
+Basic Espresso,Americano - Large,Splash of Oat Milk,17.0,0.0
+Basic Espresso,Americano - Large,Splash of Milk,1.0,0.0
+Basic Espresso,Americano - Large,Splash of Soy Milk,5.0,0.0
+Basic Espresso,Americano - Large,Add Regular Milk,1.0,0.0
+Basic Espresso,Americano - Large,Add Cream,1.0,0.0
+Basic Espresso,Americano - Large,Caramel,1.0,1.0
+Basic Espresso,Americano - Large,Caramel Sauce,1.0,1.0
+Basic Espresso,Capuccino - Medium,Make with Almond Milk,7.0,8.4
+Basic Espresso,Capuccino - Medium,Make with Oat Milk,31.0,36.8
+Basic Espresso,Capuccino - Medium,Cinnamon,6.0,0.0
+Basic Espresso,Capuccino - Medium,Extra Hot,6.0,0.0
+Basic Espresso,Capuccino - Medium,Decaf,25.0,0.0
+Basic Espresso,Capuccino - Medium,Single Shot (1 extra),1.0,1.3
+Basic Espresso,Capuccino - Medium,Vanilla,1.0,0.75
+Basic Espresso,Capuccino - Medium,Caramel,3.0,2.5
+Basic Espresso,Capuccino - Medium,Vanila Sugar Free,1.0,0.75
+Basic Espresso,Capuccino - Medium,Lavander,1.0,0.75
+Basic Espresso,Capuccino - Medium,Extra Foam (Dry),1.0,0.0
+Basic Espresso,Capuccino - Medium,Make with Non-Fat Milk,9.0,0.0
+Basic Espresso,Capuccino - Medium,Make with Coconut Milk,5.0,6.0
+Basic Espresso,Capuccino - Medium,Make with Soy Milk,4.0,4.6
+Basic Espresso,Capuccino - Medium,Oat Milk,6.0,3.0
+Basic Espresso,Capuccino - Medium,Almond Milk,1.0,0.5
+Basic Espresso,Flat White - Medium,Make with Almond Milk,2.0,2.4
+Basic Espresso,Flat White - Medium,Make with Oat Milk,18.0,21.6
+Basic Espresso,Flat White - Medium,Extra Hot,5.0,0.0
+Basic Espresso,Flat White - Medium,Decaf,22.0,0.0
+Basic Espresso,Flat White - Medium,Half Caf,1.0,0.0
+Basic Espresso,Flat White - Medium,Single Shot (1 extra),10.0,13.2
+Basic Espresso,Flat White - Medium,Caramel,1.0,0.75
+Basic Espresso,Flat White - Medium,Maple,1.0,0.75
+Basic Espresso,Flat White - Medium,Hazelnut,1.0,0.75
+Basic Espresso,Flat White - Medium,Vanila Sugar Free,2.0,1.5
+Basic Espresso,Flat White - Medium,Make with Non-Fat Milk,11.0,0.0
+Basic Espresso,Flat White - Medium,Make with Coconut Milk,1.0,1.2
+Basic Espresso,Flat White - Medium,Make with Soy Milk,1.0,1.2
+Basic Espresso,Flat White - Large,Cinnamon,1.0,0.0
+Basic Espresso,Flat White - Large,Extra Hot,10.0,0.0
+Basic Espresso,Flat White - Large,Regular (Full Caf),1.0,0.0
+Basic Espresso,Flat White - Large,Decaf,16.0,0.0
+Basic Espresso,Flat White - Large,Single Shot (1 extra),15.0,19.5
+Basic Espresso,Flat White - Large,Vanilla,1.0,0.75
+Basic Espresso,Flat White - Large,Vanila Sugar Free,2.0,1.5
+Basic Espresso,Flat White - Large,No Foam,1.0,0.0
+Basic Espresso,Flat White - Large,Make with Non-Fat Milk,49.0,0.0
+Basic Espresso,Flat White - Large,Make with Almond Milk,3.0,3.6
+Basic Espresso,Flat White - Large,Make with Oat Milk,10.0,12.0
+Basic Espresso,Flat White - Large,Make with Soy Milk,2.0,2.4
+Basic Espresso,Mocha Dark Chocolate - Large,Whip Cream,23.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Large,Iced,3.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Large,light ice,1.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Large,Decaf,12.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Large,Single Shot (1 extra),3.0,3.9
+Basic Espresso,Mocha Dark Chocolate - Large,Double Shots (2 extra),2.0,3.0
+Basic Espresso,Mocha Dark Chocolate - Large,Hazelnut,7.0,5.25
+Basic Espresso,Mocha Dark Chocolate - Large,Peppermint,7.0,5.25
+Basic Espresso,Mocha Dark Chocolate - Large,Make with Non-Fat Milk,9.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Large,Make with Almond Milk,3.0,3.6
+Basic Espresso,Mocha Dark Chocolate - Large,Make with Oat Milk,4.0,4.8
+Basic Espresso,Mocha Dark Chocolate - Large,Make with Coconut Milk,2.0,2.4
+Basic Espresso,Mocha Dark Chocolate - Large,Make with Soy Milk,1.0,1.2
+Basic Espresso,Drip Coffee - 16oz,Cinnamon,1.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Iced,6.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Light Ice,1.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Single Shot (1 extra),1.0,1.3
+Basic Espresso,Drip Coffee - 16oz,Double Shots (2 extra),2.0,4.0
+Basic Espresso,Drip Coffee - 16oz,Vanilla,2.0,1.5
+Basic Espresso,Drip Coffee - 16oz,Vanilla Sugar Free,1.0,0.75
+Basic Espresso,Drip Coffee - 16oz,Room for Cream/Milk,40.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Splash of Cream,5.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Splash of Almond Milk,10.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Splash of Oat Milk,12.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Splash of Soy Milk,1.0,0.0
+Basic Espresso,Drip Coffee - 16oz,Cold Foam,1.0,1.25
+Basic Espresso,Mocha Dark Chocolate - Medium,Make with Oat Milk,12.0,14.4
+Basic Espresso,Mocha Dark Chocolate - Medium,Whip Cream,40.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Medium,Decaf,13.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Medium,Half Caf,1.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Medium,Hazelnut,2.0,1.5
+Basic Espresso,Mocha Dark Chocolate - Medium,Peppermint,2.0,1.5
+Basic Espresso,Mocha Dark Chocolate - Medium,Extra Foam (Dry),1.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Medium,Make with Non-Fat Milk,5.0,0.0
+Basic Espresso,Mocha Dark Chocolate - Medium,Make with Almond Milk,3.0,3.6
+Basic Espresso,Mocha Dark Chocolate - Medium,Make with Soy Milk,2.0,2.4
+Basic Espresso,Drip Coffee - 12oz,Double Shots (2 extra),1.0,2.0
+Basic Espresso,Drip Coffee - 12oz,Room for Cream/Milk,26.0,0.0
+Basic Espresso,Drip Coffee - 12oz,Splash of Cream,2.0,0.0
+Basic Espresso,Drip Coffee - 12oz,Splash of Almond Milk,2.0,0.0
+Basic Espresso,Drip Coffee - 12oz,Splash of Coconut Milk,1.0,0.0
+Basic Espresso,Drip Coffee - 12oz,Splash of Oat Milk,7.0,0.0
+Basic Espresso,Drip Coffee - 12oz,Splash of Soy Milk,1.0,0.0
+Basic Espresso,Capuccino - Large,Make with Almond Milk,3.0,3.6
+Basic Espresso,Capuccino - Large,Cinnamon,5.0,0.0
+Basic Espresso,Capuccino - Large,Not too Hot,1.0,0.0
+Basic Espresso,Capuccino - Large,Extra Hot,4.0,0.0
+Basic Espresso,Capuccino - Large,Iced,1.0,0.0
+Basic Espresso,Capuccino - Large,Decaf,5.0,0.0
+Basic Espresso,Capuccino - Large,Half Caf,3.0,0.0
+Basic Espresso,Capuccino - Large,Vanilla,2.0,1.5
+Basic Espresso,Capuccino - Large,Extra Foam (Dry),1.0,0.0
+Basic Espresso,Capuccino - Large,Make with Non-Fat Milk,2.0,0.0
+Basic Espresso,Capuccino - Large,Make with Oat Milk,7.0,8.4
+Basic Espresso,Capuccino - Large,Make with Soy Milk,2.0,2.4
+Basic Espresso,Capuccino - Large,Make with Cream,3.0,4.5
+Basic Espresso,Capuccino - Large,Hazelnut,1.0,1.0
+Basic Espresso,Americano Misto - Large,Make with Non-Fat Milk,6.0,0.0
+Basic Espresso,Americano Misto - Large,Make with Oat Milk,5.0,6.0
+Basic Espresso,Americano Misto - Large,Extra Hot,7.0,0.0
+Basic Espresso,Americano Misto - Large,Decaf,2.0,0.0
+Basic Espresso,Americano Misto - Large,Half Caf,1.0,0.0
+Basic Espresso,Americano Misto - Large,Single Shot (1 extra),9.0,11.9
+Basic Espresso,Americano Misto - Large,Caramel,14.0,7.75
+Basic Espresso,Americano Misto - Large,Vanilla,2.0,1.5
+Basic Espresso,Americano Misto - Large,Pumpkin Spice,6.0,4.75
+Basic Espresso,Americano Misto - Large,No Foam,1.0,0.0
+Basic Espresso,Americano Misto - Large,Oat Milk,12.0,6.0
+Basic Espresso,Americano Misto - Large,Soy Milk,7.0,3.5
+Basic Espresso,Americano Misto - Large,Coconut Milk,1.0,0.5
+Basic Espresso,Americano Misto - Large,Non Fat Milk (Skim),6.0,0.0
+Basic Espresso,Americano Misto - Large,Cream,9.0,4.5
+Basic Espresso,Americano Misto - Large,Caramel Sauce,1.0,1.0
+Basic Espresso,Cortado - Small,Extra Hot,1.0,0.0
+Basic Espresso,Cortado - Small,Decaf,2.0,0.0
+Basic Espresso,Cortado - Small,Make with Non-Fat Milk,1.0,0.0
+Basic Espresso,Cortado - Small,Make with Oat Milk,9.0,10.8
+Basic Espresso,Cortado - Small,Oat Milk,11.0,5.5
+Basic Espresso,Cortado - Small,Soy Milk,1.0,0.5
+Basic Espresso,Cortado - Small,Coconut Milk,1.0,0.5
+Basic Espresso,Cortado - Small,Make with Almond Milk,1.0,1.2
+Basic Espresso,Americano Misto - Medium,Make with Oat Milk,7.0,8.4
+Basic Espresso,Americano Misto - Medium,Cinnamon,1.0,0.0
+Basic Espresso,Americano Misto - Medium,Extra Hot,1.0,0.0
+Basic Espresso,Americano Misto - Medium,Decaf,9.0,0.0
+Basic Espresso,Americano Misto - Medium,Half Caf,2.0,0.0
+Basic Espresso,Americano Misto - Medium,Single Shot (1 extra),3.0,3.9
+Basic Espresso,Americano Misto - Medium,Vanilla,3.0,2.25
+Basic Espresso,Americano Misto - Medium,Hazelnut,1.0,0.75
+Basic Espresso,Americano Misto - Medium,Vanila Sugar Free,2.0,1.75
+Basic Espresso,Americano Misto - Medium,Make with Non-Fat Milk,1.0,0.0
+Basic Espresso,Americano Misto - Medium,Oat Milk,9.0,4.5
+Basic Espresso,Americano Misto - Medium,Soy Milk,5.0,2.5
+Basic Espresso,Americano Misto - Medium,Almond Milk,3.0,1.5
+Basic Espresso,Americano Misto - Medium,Coconut Milk,3.0,1.5
+Basic Espresso,Americano Misto - Medium,Non Fat Milk (Skim),4.0,0.0
+Basic Espresso,Americano Misto - Medium,Cream,1.0,0.5
+Basic Espresso,Double Espresso,Decaf,2.0,0.0
+Basic Espresso,Double Espresso,Double Shots (2 extra),1.0,1.5
+Basic Espresso,Mocha White Chocolate - Medium,Make with Oat Milk,3.0,3.6
+Basic Espresso,Mocha White Chocolate - Medium,Whip Cream,8.0,0.0
+Basic Espresso,Mocha White Chocolate - Medium,Extra Hot,1.0,0.0
+Basic Espresso,Mocha White Chocolate - Medium,Decaf,2.0,0.0
+Basic Espresso,Mocha White Chocolate - Medium,Make with Non-Fat Milk,1.0,0.0
+Basic Espresso,Mocha White Chocolate - Medium,Make with Soy Milk,1.0,1.2
+Basic Espresso,Mocha White Chocolate - Medium,Regular (Full Caf),1.0,0.0
+Basic Espresso,Mocha White Chocolate - Medium,Peppermint,1.0,1.0
+Basic Espresso,Mocha White Chocolate - Large,Whip Cream,11.0,0.0
+Basic Espresso,Mocha White Chocolate - Large,Iced,2.0,0.0
+Basic Espresso,Mocha White Chocolate - Large,Decaf,3.0,0.0
+Basic Espresso,Mocha White Chocolate - Large,Caramel,1.0,0.75
+Basic Espresso,Mocha White Chocolate - Large,Lavander,1.0,0.75
+Basic Espresso,Mocha White Chocolate - Large,Make with Non-Fat Milk,3.0,0.0
+Basic Espresso,Espresso Macchiato,Iced,1.0,0.0
+Basic Espresso,Espresso Macchiato,Decaf,1.0,0.0
+Basic Espresso,Espresso Macchiato,Caramel,1.0,0.75
+Basic Espresso,Breve - Large,Decaf,1.0,0.0
+Basic Espresso,Macchiato - Large,Vanilla,1.0,1.0
+Basic Espresso,Macchiato - Large,Caramel,1.0,1.0
+Basic Espresso,Macchiato - Medium,Caramel,1.0,1.0
+Basic Espresso,Macchiato - Medium,-,3102.0,1325.4
+Sandwiches,Clubhouse,Habanero Aioli drizzle (House-made Vegan),1.0,1.0
+Sandwiches,Clubhouse,Ciabatta Bun (Regular Recipe),1.0,0.0
+Sandwiches,Clubhouse,Make on Gluten Free Bread,8.0,16.0
+Sandwiches,Clubhouse,Make on Multigrain Bread,5.0,0.0
+Sandwiches,Clubhouse,SUBSTITUE  WITH VEGAN CHEESE,2.0,0.0
+Sandwiches,Clubhouse,Avocado,2.0,4.0
+Sandwiches,Chicken Pesto Sandwich,Ciabatta Bun (Regular Recipe),2.0,0.0
+Sandwiches,Chicken Pesto Sandwich,Make on Gluten Free Bread,11.0,22.0
+Sandwiches,Chicken Pesto Sandwich,Make on Multigrain Bread,4.0,0.0
+Sandwiches,Chicken Pesto Sandwich,Brioche Bun,1.0,0.0
+Sandwiches,Chicken Pesto Sandwich,Extra Havarti,2.0,4.0
+Sandwiches,Chicken Pesto Sandwich,SUBSTITUE  WITH VEGAN CHEESE,2.0,0.0
+Sandwiches,Chicken Pesto Sandwich,Chicken,1.0,4.0
+Sandwiches,Chicken Pesto Sandwich,Egg,1.0,2.0
+Sandwiches,Chicken Pesto Sandwich,Avocado,2.0,4.0
+Sandwiches,Chicken Pesto Sandwich,Fresh Jalapenos,1.0,1.0
+Sandwiches,Chicken Pesto Sandwich,Make on Multigrain Bread,1.0,1.0
+Sandwiches,BBQ Pulled Pork s/w,Ciabatta Bun (Regular Recipe),2.0,0.0
+Sandwiches,BBQ Pulled Pork s/w,Make on Gluten Free Bread,6.0,12.0
+Sandwiches,BBQ Pulled Pork s/w,Extra Havarti,1.0,2.0
+Sandwiches,BBQ Pulled Pork s/w,Avocado,1.0,2.0
+Sandwiches,Roast Turkey,Make on Gluten Free Bread,6.0,12.0
+Sandwiches,Roast Turkey,Make on Multigrain Bread,1.0,0.0
+Sandwiches,Roast Turkey,Make on Multigrain Bread,1.0,1.0
+Sandwiches,Roast Turkey,Brioche Bun,1.0,0.0
+Sandwiches,Roast Turkey,SUBSTITUE  WITH VEGAN CHEESE,4.0,0.0
+Sandwiches,Roast Turkey,Bacon,1.0,3.5
+Sandwiches,Roast Turkey,Avocado,1.0,2.0
+Sandwiches,Roast Turkey,Spinach,1.0,2.0
+Sandwiches,Roast Turkey,Tomatoes,1.0,1.0
+Sandwiches,Butter Chicken s/w.,Habanero Aioli drizzle (House-made Vegan),1.0,1.0
+Sandwiches,Butter Chicken s/w.,Ciabatta Bun (Regular Recipe),1.0,0.0
+Sandwiches,Butter Chicken s/w.,Make on Gluten Free Bread,1.0,2.0
+Sandwiches,Butter Chicken s/w.,Extra Havarti,1.0,2.0
+Sandwiches,Butter Chicken s/w.,Bacon,1.0,3.5
+Sandwiches,Porto Melt,Make on Gluten Free Bread,2.0,4.0
+Sandwiches,Porto Melt,Make on Multigrain Bread,1.0,0.0
+Sandwiches,Porto Melt,SUBSTITUE  WITH VEGAN CHEESE,2.0,0.0
+Sandwiches,Porto Melt,Tomatoes,1.0,1.0
+Sandwiches,Gardener,Make on Gluten Free Bread,2.0,4.0
+Sandwiches,Gardener,SUBSTITUE  WITH VEGAN CHEESE,11.0,0.0
+Sandwiches,Gardener,Bacon,1.0,3.5
+Sandwiches,Gardener,Chicken,2.0,8.0
+Sandwiches,Gardener,Egg,1.0,2.0
+Sandwiches,Gardener,Avocado,1.0,2.0
+Sandwiches,Cottager,Make on Gluten Free Bread,2.0,4.0
+Sandwiches,Cottager,Avocado,1.0,2.0
+Sandwiches,Cottager,Chicken,1.0,4.0
+Sandwiches,Brekkie - Bacon,Gluten Sensitive,4.0,8.0
+Sandwiches,Brekkie - Bacon,Ham,1.0,3.0
+Sandwiches,Brekkie - Bacon,Croissant,1.0,1.0
+Sandwiches,Cheese Toast,Make on a Ciabatta Bun,1.0,0.0
+Sandwiches,Cheese Toast,Bacon,6.0,21.0
+Sandwiches,Cheese Toast,Chicken,4.0,16.0
+Sandwiches,Cheese Toast,Ham,1.0,3.0
+Sandwiches,Cheese Toast,Extra Topping,1.0,1.0
+Sandwiches,Caprese,Chicken,1.0,4.0
+Sandwiches,Caprese,Fresh Jalapenos,1.0,1.0
+Sandwiches,Brekkie - Veggie,Jalapeno Crema drizzle (House-made Vegan),1.0,1.0
+Sandwiches,Brekkie - Veggie,Gluten Sensitive,2.0,4.0
+Sandwiches,Brekkie - Veggie,SUBSTITUE  WITH VEGAN CHEESE,1.0,0.0
+Sandwiches,Brekkie - Veggie,Avocado,1.0,2.0
+Sandwiches,Spicy Kuzu,Make on Gluten Free Bread,2.0,4.0
+Sandwiches,Vivace,Multigrain Bread (regular recipe),1.0,0.0
+Sandwiches,Vivace,Extra Havarti,1.0,2.0
+Sandwiches,Egg-N-Chicken Brekkie,Gluten Sensitive,1.0,2.0
+Sandwiches,Egg-N-Chicken Brekkie,Multi-Grain,1.0,0.0
+Sandwiches,Egg-N-Chicken Brekkie,Croissant,5.0,5.0
+Sandwiches,Egg-N-Chicken Brekkie,Aioli on the side (House-made Vegan),5.0,10.0
+Sandwiches,Egg-N-Chicken Brekkie,Avocado,5.0,10.0
+Sandwiches,AMT,Balsamic Drizzle (Vegan),2.0,2.0
+Sandwiches,Chicken Pesto WITH AVOCADO,Ciabatta Bun (Regular Recipe),2.0,0.0
+Sandwiches,Chicken Pesto WITH AVOCADO,Bacon,1.0,3.5
+Sandwiches,Egg Salad,-,159.0,243.0
+Bakery,Double Chocolate Cookie,-,,0.0
+Large Pizzas,Pepperoni -Large,Extra Shredded Mozza,4.0,12.0
+Large Pizzas,Pepperoni -Large,SUBSTITUTE with VEGAN CHEESE,1.0,0.0
+Large Pizzas,Pepperoni -Large,Double-smoked Bacon,3.0,10.5
+Large Pizzas,Pepperoni -Large,Pepperoni,1.0,3.0
+Large Pizzas,Pepperoni -Large,Mushrooms,3.0,6.0
+Large Pizzas,Pepperoni -Large,Smoked Pineapples,1.0,2.0
+Large Pizzas,Pepperoni -Large,Red Onions,1.0,1.0
+Large Pizzas,Hawaiian - Large,Extra Shredded Mozza,1.0,3.0
+Large Pizzas,Classic Cheese - Large,Add Slaw on the side (Vegetarian),1.0,3.5
+Large Pizzas,Butter Chicken - Large,Butter Chicken Sauce drizzle (Vegan),1.0,1.0
+Large Pizzas,Butter Chicken - Large,Extra Paneer,1.0,4.0
+Large Pizzas,Margherita -Large,Extra Parmesan,2.0,6.0
+Large Pizzas,Margherita -Large,Extra Fresh Mozza,1.0,4.0
+Large Pizzas,Margherita -Large,Chicken,1.0,4.0
+Large Pizzas,Margherita -Large,Ham,1.0,3.0
+Large Pizzas,Margherita -Large,Pepperoni,1.0,3.0
+Large Pizzas,Margherita -Large,Caramelized Onions,1.0,3.0
+Large Pizzas,Meatzaa - Large,Ranch Dip on the side,1.0,1.0
+Large Pizzas,Meatzaa - Large,Extra Shredded Mozza,1.0,3.0
+Large Pizzas,Creamy Chicken - Large,Balsamic Drizzle (Vegan),1.0,1.0
+Large Pizzas,Creamy Chicken - Large,Add Slaw on the side (Vegetarian),1.0,3.5
+Large Pizzas,Creamy Chicken - Large,Half and Half,1.0,2.5
+Large Pizzas,Spicy Paneer - Large,Butter Chicken Sauce drizzle (Vegan),1.0,1.0
+Large Pizzas,Spicy Paneer - Large,Chicken,1.0,4.0
+Large Pizzas,Spicy Paneer - Large,Spinach,2.0,4.0
+Large Pizzas,House Special - Large,Extra Topping,1.0,1.0
+Large Pizzas,Terroso - Large,SUBSTITUTE with VEGAN CHEESE,1.0,0.0
+Large Pizzas,Veggie - Large,Balsamic Drizzle (Vegan),1.0,1.0
+Large Pizzas,Veggie - Large,Chicken,1.0,4.0
+Large Pizzas,Veggie - Large,Pepperoni,1.0,3.0
+Large Pizzas,Mediterranean - Large,Double-smoked Bacon,1.0,3.5
+Large Pizzas,Mediterranean - Large,Chicken,3.0,12.0
+Large Pizzas,Mediterranean - Large,Extra Topping,1.0,1.0
+Large Pizzas,Pesto Mushroom WITH CHICKEN - Large,-,44.0,114.5
+Personal Pizzas,Hawaiian - Personal,Ranch Dip on the side,1.0,1.0
+Personal Pizzas,Hawaiian - Personal,SUBSTITUTE with VEGAN CHEESE,4.0,8.0
+Personal Pizzas,Hawaiian - Personal,Gluten Sensitive,1.0,3.5
+Personal Pizzas,Hawaiian - Personal,Mushrooms,2.0,4.0
+Personal Pizzas,Margherita - Personal,Extra Paneer,1.0,3.0
+Personal Pizzas,Margherita - Personal,SUBSTITUTE with VEGAN CHEESE,1.0,2.0
+Personal Pizzas,Margherita - Personal,Chicken,1.0,3.0
+Personal Pizzas,Margherita - Personal,Gluten Sensitive,6.0,21.0
+Personal Pizzas,Margherita - Personal,Banana Peppers,1.0,1.0
+Personal Pizzas,Margherita - Personal,Mushrooms,1.0,2.0
+Personal Pizzas,Margherita - Personal,Extra Topping 2,1.0,2.0
+Personal Pizzas,Classic Cheese - Personal,SUBSTITUTE with VEGAN CHEESE,1.0,2.0
+Personal Pizzas,Classic Cheese - Personal,Gluten Sensitive,1.0,3.5
+Personal Pizzas,Pepperoni - Personal,Extra Shredded Mozza,1.0,2.0
+Personal Pizzas,Pepperoni - Personal,Gluten Sensitive,3.0,10.5
+Personal Pizzas,Pepperoni - Personal,Mushrooms,1.0,2.0
+Personal Pizzas,Pepperoni - Personal,No Cheese,1.0,0.0
+Personal Pizzas,Pepperoni - Personal,Banana Peppers,1.0,1.0
+Personal Pizzas,Veggie - Personal,SUBSTITUTE with VEGAN CHEESE,6.0,12.0
+Personal Pizzas,Veggie - Personal,Gluten Sensitive,8.0,28.0
+Personal Pizzas,BBQ Pulled Pork Pizza - Personal,SUBSTITUTE with VEGAN CHEESE,1.0,2.0
+Personal Pizzas,BBQ Pulled Pork Pizza - Personal,Smoked Pineapples,1.0,2.0
+Personal Pizzas,Mediterranean - Personal,SUBSTITUTE with VEGAN CHEESE,1.0,2.0
+Personal Pizzas,Mediterranean - Personal,1 Egg,1.0,2.0
+Personal Pizzas,Mediterranean - Personal,Chicken,1.0,4.0
+Personal Pizzas,Meatzaa - Personal,Extra Shredded Mozza,1.0,2.0
+Personal Pizzas,Meatzaa - Personal,Gluten Sensitive,5.0,17.5
+Personal Pizzas,House Special - Personal,Gluten Sensitive,2.0,7.0
+Personal Pizzas,Spicy Paneer - Personal,Chicken,1.0,4.0
+Personal Pizzas,Spicy Paneer - Personal,Gluten Sensitive,1.0,3.5
+Personal Pizzas,Creamy Chicken - Personal,Gluten Sensitive,2.0,7.0
+Personal Pizzas,BBQ Chicken - Personal,Regular Handmade thin-crust,1.0,0.0
+Personal Pizzas,BBQ Chicken - Personal,Gluten Sensitive,2.0,7.0
+Personal Pizzas,Terroso - Personal,Gluten Sensitive,1.0,3.5
+Personal Pizzas,Deluxe Pepperoni Personal,Extra Shredded Mozza,1.0,2.0
+Personal Pizzas,Deluxe Pepperoni Personal,Pepperoni,1.0,3.0
+Personal Pizzas,Pesto Mushroom - Personal,Gluten Sensitive,1.0,3.5
+Personal Pizzas,Lamb Slam - Personal,Ranch Dip on the side,1.0,1.0
+Personal Pizzas,Pesto Mushroom WITH CHICKEN - Personal,-,68.0,184.5
+Light Bites,Bacon Brekkie,Ciabatta Bun (Regular Recipe),1.0,0.0
+Light Bites,Bacon Brekkie,Make on Gluten Free Bread,4.0,8.0
+Light Bites,Bacon Brekkie,Gluten Sensitive,2.0,4.0
+Light Bites,Bacon Brekkie,Croissant,1.0,1.0
+Light Bites,Bacon Brekkie,Ham,3.0,9.0
+Light Bites,Bacon Brekkie,Avocado,1.0,2.0
+Light Bites,Croissantwich,Extra Havarti,2.0,4.0
+Light Bites,Croissantwich,Bacon,2.0,7.0
+Light Bites,Croissantwich,Chicken,2.0,8.0
+Light Bites,Croissantwich,Avocado,6.0,12.0
+Light Bites,Veggie Brekkie,Ciabatta Bun (Regular Recipe),2.0,0.0
+Light Bites,Veggie Brekkie,Make on Gluten Free Bread,2.0,4.0
+Light Bites,Veggie Brekkie,Make on Multigrain Bread,1.0,0.0
+Light Bites,Veggie Brekkie,Brioche Bun,12.0,0.0
+Light Bites,Veggie Brekkie,Multigrain Bread (regular recipe),2.0,0.0
+Light Bites,Veggie Brekkie,Brioche,15.0,0.0
+Light Bites,Veggie Brekkie,Gluten Sensitive,1.0,2.0
+Light Bites,Veggie Brekkie,Multi-Grain,1.0,0.0
+Light Bites,Veggie Brekkie,Croissant,2.0,2.0
+Light Bites,Veggie Brekkie,Bacon,4.0,14.0
+Light Bites,Veggie Brekkie,Chicken,1.0,4.0
+Light Bites,Veggie Brekkie,Egg,2.0,4.0
+Light Bites,Veggie Brekkie,Avocado,1.0,2.0
+Light Bites,Avo Toast,Egg,30.0,60.0
+Light Bites,Avo Toast,Alfalfa,2.0,2.0
+Light Bites,Samosa,Veggie,38.0,104.5
+Light Bites,Samosa,2 Pk Veggie,20.0,100.0
+Light Bites,Samosa,Beef/chicken,30.0,107.0
+Light Bites,Samosa,Pk Beef/chicken,28.0,182.0
+Light Bites,Samosa,1 Beef + 1 Veggie,1.0,6.5
+Light Bites,Garden Salad,Chicken,3.0,12.0
+Light Bites,Chickpea Salad,-,222.0,661.0
+Speciality Espresso,Cinnamon Maple Latte - Large,Whip Cream,1.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Large,Extra Hot,9.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Large,Iced,13.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Large,Decaf,13.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Large,Half Caf,2.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Large,Single Shot (1 extra),8.0,10.8
+Speciality Espresso,Cinnamon Maple Latte - Large,Make with Non-Fat Milk,37.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Large,Make with Almond Milk,4.0,4.6
+Speciality Espresso,Cinnamon Maple Latte - Large,Make with Oat Milk,39.0,46.4
+Speciality Espresso,Cinnamon Maple Latte - Large,Make with Coconut Milk,1.0,1.2
+Speciality Espresso,Cinnamon Maple Latte - Large,Make with Soy Milk,8.0,9.6
+Speciality Espresso,Cinnamon Maple Latte - Medium,Whip Cream,1.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Medium,Extra Hot,9.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Medium,Decaf,10.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Medium,Half Caf,1.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Medium,Make with Non-Fat Milk,6.0,0.0
+Speciality Espresso,Cinnamon Maple Latte - Medium,Make with Oat Milk,30.0,35.6
+Speciality Espresso,Cinnamon Maple Latte - Medium,Make with Soy Milk,2.0,2.4
+Speciality Espresso,Salted Carmel Mocha - Large,Half Sweet (50%),1.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Large,Whip Cream,41.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Large,Iced,7.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Large,Decaf,11.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Large,Single Shot (1 extra),4.0,5.2
+Speciality Espresso,Salted Carmel Mocha - Large,Make with Non-Fat Milk,1.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Large,Make with Almond Milk,5.0,5.8
+Speciality Espresso,Salted Carmel Mocha - Large,Make with Oat Milk,8.0,9.6
+Speciality Espresso,Salted Carmel Mocha - Large,Make with Soy Milk,5.0,6.0
+Speciality Espresso,Golden Ginger Maple Latte - Large,Iced,2.0,0.0
+Speciality Espresso,Golden Ginger Maple Latte - Large,Decaf,1.0,0.0
+Speciality Espresso,Golden Ginger Maple Latte - Large,Single Shot (1 extra),1.0,1.3
+Speciality Espresso,Golden Ginger Maple Latte - Large,Make with Non-Fat Milk,2.0,0.0
+Speciality Espresso,Golden Ginger Maple Latte - Large,Make with Almond Milk,4.0,4.8
+Speciality Espresso,Golden Ginger Maple Latte - Large,Make with Oat Milk,23.0,27.4
+Speciality Espresso,Golden Ginger Maple Latte - Large,Make with Soy Milk,7.0,8.4
+Speciality Espresso,Caramel Macchiato - Large,Iced,3.0,0.0
+Speciality Espresso,Caramel Macchiato - Large,Decaf,1.0,0.0
+Speciality Espresso,Caramel Macchiato - Large,Single Shot (1 extra),1.0,1.3
+Speciality Espresso,Caramel Macchiato - Large,Vanilla,1.0,0.75
+Speciality Espresso,Caramel Macchiato - Large,Make with Almond Milk,3.0,3.6
+Speciality Espresso,Caramel Macchiato - Large,Make with Oat Milk,25.0,29.2
+Speciality Espresso,Caramel Macchiato - Large,Make with Coconut Milk,2.0,2.4
+Speciality Espresso,Honey Lavender Latte - Large,Iced,3.0,0.0
+Speciality Espresso,Honey Lavender Latte - Large,Decaf,5.0,0.0
+Speciality Espresso,Honey Lavender Latte - Large,Make with Non-Fat Milk,3.0,0.0
+Speciality Espresso,Honey Lavender Latte - Large,Make with Almond Milk,2.0,2.4
+Speciality Espresso,Honey Lavender Latte - Large,Make with Oat Milk,8.0,9.6
+Speciality Espresso,Caramel Macchiato - Medium,Decaf,2.0,0.0
+Speciality Espresso,Caramel Macchiato - Medium,Make with Almond Milk,6.0,7.2
+Speciality Espresso,Caramel Macchiato - Medium,Make with Oat Milk,3.0,3.6
+Speciality Espresso,Caramel Macchiato - Medium,Make with Coconut Milk,3.0,3.6
+Speciality Espresso,Caramel Macchiato - Medium,Make with Soy Milk,1.0,1.2
+Speciality Espresso,Salted Carmel Mocha - Medium,Whip Cream,27.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Medium,Decaf,4.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Medium,Make with Non-Fat Milk,1.0,0.0
+Speciality Espresso,Salted Carmel Mocha - Medium,Make with Almond Milk,6.0,7.2
+Speciality Espresso,Salted Carmel Mocha - Medium,Make with Oat Milk,7.0,8.4
+Speciality Espresso,Salted Carmel Mocha - Medium,Make with Coconut Milk,1.0,1.2
+Speciality Espresso,Honey Lavender Latte - Medium,Not too Hot,1.0,0.0
+Speciality Espresso,Honey Lavender Latte - Medium,Extra Hot,3.0,0.0
+Speciality Espresso,Honey Lavender Latte - Medium,Decaf,7.0,0.0
+Speciality Espresso,Honey Lavender Latte - Medium,Single Shot (1 extra),1.0,1.3
+Speciality Espresso,Honey Lavender Latte - Medium,Extra Foam (Dry),1.0,0.0
+Speciality Espresso,Honey Lavender Latte - Medium,Make with Almond Milk,3.0,3.4
+Speciality Espresso,Honey Lavender Latte - Medium,Make with Oat Milk,13.0,15.4
+Speciality Espresso,Honey Lavender Latte - Medium,Make with Coconut Milk,1.0,1.2
+Speciality Espresso,Golden Ginger Maple Latte - Medium,Cinnamon,1.0,0.0
+Speciality Espresso,Golden Ginger Maple Latte - Medium,Extra Hot,9.0,0.0
+Speciality Espresso,Golden Ginger Maple Latte - Medium,Decaf,2.0,0.0
+Speciality Espresso,Golden Ginger Maple Latte - Medium,Make with Non-Fat Milk,2.0,0.0
+Speciality Espresso,Golden Ginger Maple Latte - Medium,Make with Almond Milk,2.0,2.4
+Speciality Espresso,Golden Ginger Maple Latte - Medium,Make with Oat Milk,6.0,7.0
+Speciality Espresso,PSL - Large,Make with Oat Milk,1.0,1.2
+Speciality Espresso,Peppermint Mocha - Medium,-,488.0,292.65
+Iced Coffee Drinks,Iced Latte,Make with Almond Milk,32.0,37.6
+Iced Coffee Drinks,Iced Latte,Make with Oat Milk,82.0,96.8
+Iced Coffee Drinks,Iced Latte,Make with Soy Milk,24.0,28.6
+Iced Coffee Drinks,Iced Latte,Cinnamon,1.0,0.0
+Iced Coffee Drinks,Iced Latte,Iced,1.0,0.0
+Iced Coffee Drinks,Iced Latte,Light Ice,2.0,0.0
+Iced Coffee Drinks,Iced Latte,Regular (Full Caf),7.0,0.0
+Iced Coffee Drinks,Iced Latte,Decaf,48.0,0.0
+Iced Coffee Drinks,Iced Latte,Half Caf,5.0,0.0
+Iced Coffee Drinks,Iced Latte,Single Shot (1 extra),8.0,10.8
+Iced Coffee Drinks,Iced Latte,Double Shots (2 extra),2.0,3.5
+Iced Coffee Drinks,Iced Latte,Caramel,29.0,21.75
+Iced Coffee Drinks,Iced Latte,Vanilla,223.0,171.0
+Iced Coffee Drinks,Iced Latte,Maple,13.0,9.75
+Iced Coffee Drinks,Iced Latte,Hazelnut,10.0,7.5
+Iced Coffee Drinks,Iced Latte,Vanilla Sugar Free,4.0,3.0
+Iced Coffee Drinks,Iced Latte,Vanila Sugar Free,17.0,13.25
+Iced Coffee Drinks,Iced Latte,Peppermint,3.0,2.25
+Iced Coffee Drinks,Iced Latte,Lavander,3.0,2.25
+Iced Coffee Drinks,Iced Latte,Cold Foam,14.0,17.5
+Iced Coffee Drinks,Iced Latte,Make with Non-Fat Milk,3.0,0.0
+Iced Coffee Drinks,Iced Latte,Make with Coconut Milk,5.0,5.8
+Iced Coffee Drinks,Iced Latte,Pumpkin Spice,1.0,1.0
+Iced Coffee Drinks,Iced Latte,Easy on Ice,1.0,0.6
+Iced Coffee Drinks,Iced Latte,No Sugar,1.0,0.0
+Iced Coffee Drinks,Iced Latte,Half Sweet,1.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Add Regular Milk,3.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Add Coconut Milk,1.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Add Oat Milk,3.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Add Soy Milk,3.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Cinnamon,1.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Decaf,9.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Half Caf,1.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Single Shot (1 extra),4.0,5.2
+Iced Coffee Drinks,Iced Americano - 2 shots,Vanilla,3.0,2.5
+Iced Coffee Drinks,Iced Americano - 2 shots,Caramel,1.0,0.75
+Iced Coffee Drinks,Iced Americano - 2 shots,Maple,1.0,0.75
+Iced Coffee Drinks,Iced Americano - 2 shots,Hazelnut,2.0,1.75
+Iced Coffee Drinks,Iced Americano - 2 shots,Lavander,1.0,0.75
+Iced Coffee Drinks,Iced Americano - 2 shots,Room for Cream/Milk,12.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Splash of Non-fat Milk,1.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Splash of Oat Milk,7.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Add Cream,2.0,0.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Pumpkin Spice,1.0,1.0
+Iced Coffee Drinks,Iced Americano - 2 shots,Pure Cane Sugar,1.0,0.0
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Half Sweet (50%),2.0,0.0
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Extra ice,1.0,0.0
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Regular (Full Caf),1.0,0.0
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Decaf,10.0,0.0
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Single Shot (1 extra),1.0,1.3
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Cold Foam,2.0,2.5
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Vanilla Cold Foam,3.0,3.75
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Make with Almond Milk,5.0,5.6
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Make with Oat Milk,19.0,22.4
+Iced Coffee Drinks,Iced Cinnamon Maple Latte,Make with Soy Milk,5.0,6.0
+Iced Coffee Drinks,Iced Caramel Macchiato,Decaf,4.0,0.0
+Iced Coffee Drinks,Iced Caramel Macchiato,Single Shot (1 extra),1.0,1.3
+Iced Coffee Drinks,Iced Caramel Macchiato,Make with Non-Fat Milk,1.0,0.0
+Iced Coffee Drinks,Iced Caramel Macchiato,Make with Oat Milk,10.0,12.0
+Iced Coffee Drinks,Iced Caramel Macchiato,Caramel,1.0,1.0
+Iced Coffee Drinks,Iced Mocha - Dark,Whip Cream,19.0,0.0
+Iced Coffee Drinks,Iced Mocha - Dark,Light Ice,1.0,0.0
+Iced Coffee Drinks,Iced Mocha - Dark,Decaf,11.0,0.0
+Iced Coffee Drinks,Iced Mocha - Dark,Half Caf,1.0,0.0
+Iced Coffee Drinks,Iced Mocha - Dark,Single Shot (1 extra),2.0,2.6
+Iced Coffee Drinks,Iced Mocha - Dark,Hazelnut,1.0,0.75
+Iced Coffee Drinks,Iced Mocha - Dark,Make with Non-Fat Milk,1.0,0.0
+Iced Coffee Drinks,Iced Mocha - Dark,Make with Almond Milk,1.0,1.2
+Iced Coffee Drinks,Iced Mocha - Dark,Make with Soy Milk,1.0,1.2
+Iced Coffee Drinks,Iced Mocha - Dark,Peppermint,1.0,1.0
+Iced Coffee Drinks,Iced Salted Caramel Mocha,Whip Cream,15.0,0.0
+Iced Coffee Drinks,Iced Salted Caramel Mocha,Decaf,2.0,0.0
+Iced Coffee Drinks,Iced Salted Caramel Mocha,Half Caf,1.0,0.0
+Iced Coffee Drinks,Iced Salted Caramel Mocha,Single Shot (1 extra),2.0,2.6
+Iced Coffee Drinks,Iced Salted Caramel Mocha,Cold Foam,3.0,3.75
+Iced Coffee Drinks,Iced Salted Caramel Mocha,Make with Non-Fat Milk,2.0,0.0
+Iced Coffee Drinks,Iced Salted Caramel Mocha,Make with Oat Milk,3.0,3.6
+Iced Coffee Drinks,Iced Honey Lavender Latte,Single Shot (1 extra),1.0,1.5
+Iced Coffee Drinks,Iced Honey Lavender Latte,Cold Foam,1.0,1.25
+Iced Coffee Drinks,Iced Honey Lavender Latte,Make with Oat Milk,7.0,8.4
+Iced Coffee Drinks,Iced Honey Lavender Latte,Make with Soy Milk,1.0,1.2
+Iced Coffee Drinks,Iced Mocha - White,Whip Cream,7.0,0.0
+Iced Coffee Drinks,Iced Mocha - White,Make with Oat Milk,1.0,1.2
+Iced Coffee Drinks,Iced Mocha - White,Make with Coconut Milk,1.0,1.2
+Iced Coffee Drinks,Iced Golden Ginger Maple Latte,Regular (Full Caf),1.0,0.0
+Iced Coffee Drinks,Iced Golden Ginger Maple Latte,Single Shot (1 extra),3.0,3.9
+Iced Coffee Drinks,Iced Golden Ginger Maple Latte,-,753.0,536.85
+Tea,Chai Latte - Medium,Extra Hot - 160F,1.0,0.0
+Tea,Chai Latte - Medium,Make with Oat Milk,15.0,18.0
+Tea,Chai Latte - Medium,Make with Soy Milk,3.0,3.6
+Tea,Chai Latte - Medium,Not too Hot,1.0,0.0
+Tea,Chai Latte - Medium,Single Shot (1 extra),4.0,5.2
+Tea,Chai Latte - Medium,Double Shots (2 extra),2.0,3.0
+Tea,Chai Latte - Medium,Make with Non-Fat Milk,4.0,0.0
+Tea,Chai Latte - Medium,Make with Almond Milk,6.0,7.2
+Tea,Chai Latte - Medium,Oat Milk,16.0,8.0
+Tea,Chai Latte - Medium,Soy Milk,2.0,1.0
+Tea,Chai Latte - Medium,Almond Milk,7.0,3.5
+Tea,Chai Latte - Medium,Coconut Milk,3.0,1.5
+Tea,Chai Latte - Medium,Non Fat Milk (Skim),1.0,0.0
+Tea,London Fog - Large,Make with Oat Milk,3.0,3.6
+Tea,London Fog - Large,Iced,1.0,0.0
+Tea,London Fog - Large,Make with Non-Fat Milk,11.0,0.0
+Tea,London Fog - Large,Make with Coconut Milk,1.0,1.2
+Tea,London Fog - Large,Oat Milk,10.0,5.0
+Tea,London Fog - Large,Coconut Milk,2.0,1.0
+Tea,London Fog - Large,Non Fat Milk (Skim),1.0,0.0
+Tea,Chai Latte - Large,Make with Non-Fat Milk,10.0,0.0
+Tea,Chai Latte - Large,Sweetened (100%),1.0,0.0
+Tea,Chai Latte - Large,Half Sweet (50%),1.0,0.0
+Tea,Chai Latte - Large,Not too Hot,1.0,0.0
+Tea,Chai Latte - Large,Extra Hot,3.0,0.0
+Tea,Chai Latte - Large,Iced,2.0,0.0
+Tea,Chai Latte - Large,Single Shot (1 extra),2.0,2.6
+Tea,Chai Latte - Large,Double Shots (2 extra),1.0,1.5
+Tea,Chai Latte - Large,Make with Almond Milk,11.0,13.2
+Tea,Chai Latte - Large,Make with Oat Milk,12.0,14.2
+Tea,Chai Latte - Large,Make with Coconut Milk,2.0,2.4
+Tea,Chai Latte - Large,Oat Milk,7.0,3.5
+Tea,Chai Latte - Large,Soy Milk,2.0,1.0
+Tea,Chai Latte - Large,Almond Milk,4.0,2.0
+Tea,Chai Latte - Large,Coconut Milk,1.0,0.5
+Tea,Matcha Latte - Medium,Make with Oat Milk,49.0,58.6
+Tea,Matcha Latte - Medium,Vanilla,2.0,1.5
+Tea,Matcha Latte - Medium,Maple,1.0,0.75
+Tea,Matcha Latte - Medium,Vanila Sugar Free,2.0,1.5
+Tea,Matcha Latte - Medium,Lavander,2.0,1.5
+Tea,Matcha Latte - Medium,Make with Non-Fat Milk,5.0,0.0
+Tea,Matcha Latte - Medium,Make with Almond Milk,6.0,7.2
+Tea,Matcha Latte - Medium,Make with Soy Milk,12.0,14.4
+Tea,London Fog - Medium,Make with Oat Milk,7.0,8.4
+Tea,London Fog - Medium,Whip Cream,1.0,0.0
+Tea,London Fog - Medium,Vanilla,1.0,0.75
+Tea,London Fog - Medium,Make with Non-Fat Milk,4.0,0.0
+Tea,London Fog - Medium,Make with Almond Milk,1.0,1.2
+Tea,London Fog - Medium,Oat Milk,4.0,2.0
+Tea,London Fog - Medium,Soy Milk,1.0,0.5
+Tea,London Fog - Medium,Almond Milk,1.0,0.5
+Tea,Tea - Earl Grey,Room for Cream/Milk,1.0,0.0
+Tea,Tea - Earl Grey,Add Regular Milk,1.0,0.0
+Tea,Tea - Earl Grey,Add Oat Milk,1.0,0.0
+Tea,Tea - Earl Grey,Pure Cane Sugar,1.0,0.0
+Tea,Matcha Latte - Large,Not too Hot,1.0,0.0
+Tea,Matcha Latte - Large,Extra Hot,1.0,0.0
+Tea,Matcha Latte - Large,Iced,2.0,0.0
+Tea,Matcha Latte - Large,Single Shot (1 extra),1.0,1.3
+Tea,Matcha Latte - Large,Vanilla,3.0,2.25
+Tea,Matcha Latte - Large,Vanila Sugar Free,3.0,2.25
+Tea,Matcha Latte - Large,Lavander,3.0,2.25
+Tea,Matcha Latte - Large,Make with Non-Fat Milk,2.0,0.0
+Tea,Matcha Latte - Large,Make with Almond Milk,3.0,3.6
+Tea,Matcha Latte - Large,Make with Oat Milk,11.0,13.2
+Tea,Matcha Latte - Large,Make with Coconut Milk,2.0,2.4
+Tea,Matcha Latte - Large,Make with Soy Milk,1.0,1.2
+Tea,Lavender Matcha - Large,Extra Hot,2.0,0.0
+Tea,Lavender Matcha - Large,Vanila Sugar Free,1.0,0.75
+Tea,Lavender Matcha - Large,Make with Oat Milk,1.0,1.0
+Tea,Lavender Matcha - Medium,Make with Almond Milk,1.0,1.2
+Tea,Lavender Matcha - Medium,Make with Oat Milk,3.0,3.6
+Tea,Lavender Matcha - Medium,Make with Coconut Milk,2.0,2.4
+Tea,Lavender Matcha - Medium,Make with Soy Milk,1.0,1.2
+Tea,Tea - Breakfast Tea,Room for Cream/Milk,3.0,0.0
+Tea,Tea - Breakfast Tea,Splash of Oat Milk,4.0,0.0
+Tea,Tea - Chai,Splash of Almond Milk,1.0,0.0
+Tea,Tea - Chai,Add Regular Milk,3.0,0.0
+Tea,Tea - Chai,Pure Cane Sugar,1.0,0.0
+Tea,Tea - Cherry & Rose Sencha,Splash of Oat Milk,1.0,0.0
+Tea,Dirty Chai Latte - Large,Cinnamon,2.0,0.0
+Tea,Dirty Chai Latte - Large,Whip Cream,2.0,0.0
+Tea,Dirty Chai Latte - Large,Extra Hot,2.0,0.0
+Tea,Dirty Chai Latte - Large,Hot,1.0,0.0
+Tea,Dirty Chai Latte - Large,Iced,3.0,0.0
+Tea,Dirty Chai Latte - Large,Make with Almond Milk,1.0,1.2
+Tea,Dirty Chai Latte - Large,Make with Oat Milk,1.0,1.2
+Tea,Dirty Chai Latte - Medium,Make with Oat Milk,1.0,1.2
+Tea,Tea - Fruits & Fleur,-,327.0,243.7
+Uncategorized,Croissanwich,Bacon,1.0,3.5
+Uncategorized,Croissanwich,Gluten Sensitive,1.0,2.0
+Uncategorized,Cinnamon Maple Latte - Large,Make with Non-Fat Milk,4.0,0.0
+Uncategorized,Cinnamon Maple Latte - Large,Make with Oat Milk,4.0,4.8
+Uncategorized,Cinnamon Maple Latte - Large,Make with Soy Milk,1.0,1.2
+Uncategorized,Cinnamon Maple Latte - Large,Decaf,1.0,0.0
+Uncategorized,Cinnamon Maple Latte - Large,Make with Coconut Milk,1.0,1.2
+Uncategorized,Cinnamon Maple Latte - Large,Make with Almond Milk,1.0,1.2
+Uncategorized,Cinnamon Maple Latte - Large,Half Sweet,1.0,0.0
+Uncategorized,Cinnamon Maple Latte - Medium,Make with Oat Milk,4.0,4.8
+Uncategorized,Cinnamon Maple Latte - Medium,Make with Soy Milk,1.0,1.2
+Uncategorized,Cinnamon Maple Latte - Medium,Single Shot (1 extra),1.0,1.3
+Uncategorized,Peppermint Mocha - Large,Make in Dark Choc,1.0,0.0
+Uncategorized,Peppermint Mocha - Large,Single Shot (1 extra),1.0,1.3
+Uncategorized,Peppermint Mocha - Large,Iced,1.0,0.6
+Uncategorized,Cold Water,-,24.0,23.1
+Iced Teas & Tea Lattes,Iced Matcha Latte,Make with Oat Milk,13.0,15.6
+Iced Teas & Tea Lattes,Iced Matcha Latte,Half Sweet (50%),3.0,0.0
+Iced Teas & Tea Lattes,Iced Matcha Latte,Single Shot (1 extra),2.0,2.6
+Iced Teas & Tea Lattes,Iced Matcha Latte,Double Shots (2 extra),2.0,3.5
+Iced Teas & Tea Lattes,Iced Matcha Latte,Vanilla,5.0,4.0
+Iced Teas & Tea Lattes,Iced Matcha Latte,Vanila Sugar Free,3.0,2.5
+Iced Teas & Tea Lattes,Iced Matcha Latte,Cold Foam,6.0,7.5
+Iced Teas & Tea Lattes,Iced Matcha Latte,Make with Non-Fat Milk,1.0,0.0
+Iced Teas & Tea Lattes,Iced Matcha Latte,Make with Almond Milk,6.0,7.2
+Iced Teas & Tea Lattes,Iced Matcha Latte,Make with Coconut Milk,9.0,10.8
+Iced Teas & Tea Lattes,Iced Matcha Latte,Make with Soy Milk,4.0,4.8
+Iced Teas & Tea Lattes,Iced Matcha Latte,Easy on Ice,1.0,0.6
+Iced Teas & Tea Lattes,Iced Matcha Latte,Organic Pure Honey,1.0,0.5
+Iced Teas & Tea Lattes,Iced Chai Latte,Vanilla,3.0,2.5
+Iced Teas & Tea Lattes,Iced Chai Latte,Cold Foam,9.0,11.25
+Iced Teas & Tea Lattes,Iced Chai Latte,Make with Non-Fat Milk,2.0,0.0
+Iced Teas & Tea Lattes,Iced Chai Latte,Make with Almond Milk,4.0,4.6
+Iced Teas & Tea Lattes,Iced Chai Latte,Make with Oat Milk,10.0,11.8
+Iced Teas & Tea Lattes,Iced Chai Latte,Make with Soy Milk,1.0,1.2
+Iced Teas & Tea Lattes,Iced Lavender Matcha,Vanilla,2.0,1.5
+Iced Teas & Tea Lattes,Iced Lavender Matcha,Make with Almond Milk,1.0,1.2
+Iced Teas & Tea Lattes,Iced Lavender Matcha,Make with Oat Milk,7.0,8.0
+Iced Teas & Tea Lattes,Iced Lavender Matcha,Make with Soy Milk,3.0,3.6
+Iced Teas & Tea Lattes,Iced London Fog,Caramel,1.0,0.5
+Iced Teas & Tea Lattes,Iced Coconut Chai Latte,-,99.0,105.75
+Retail Drinks,Fentimans,-,,0.0
+Winter Drink Specials,Eggnog Latte - 16oz,Iced,1.0,0.0
+Winter Drink Specials,Eggnog Latte - 16oz,Regular (Full Caf),1.0,0.0
+Winter Drink Specials,Eggnog Latte - 16oz,Decaf,4.0,0.0
+Winter Drink Specials,Eggnog Latte - 16oz,Double Shots (2 extra),1.0,1.5
+Winter Drink Specials,Gingerbread Latte - 16oz,Whip Cream,1.0,0.0
+Winter Drink Specials,Gingerbread Latte - 16oz,Iced,2.0,0.0
+Winter Drink Specials,Gingerbread Latte - 16oz,Decaf,4.0,0.0
+Winter Drink Specials,Gingerbread Latte - 16oz,Single Shot (1 extra),3.0,3.9
+Winter Drink Specials,Gingerbread Latte - 16oz,Make with Oat Milk,15.0,18.0
+Winter Drink Specials,Gingerbread Latte - 16oz,Make with Soy Milk,1.0,1.2
+Winter Drink Specials,Gingerbread Latte - 16oz,Make with Cream,2.0,3.0
+Winter Drink Specials,Candy Cane Mocha - 16oz,Whip Cream,10.0,0.0
+Winter Drink Specials,Candy Cane Mocha - 16oz,Iced,1.0,0.0
+Winter Drink Specials,Candy Cane Mocha - 16oz,Decaf,9.0,0.0
+Winter Drink Specials,Candy Cane Mocha - 16oz,Single Shot (1 extra),1.0,1.3
+Winter Drink Specials,Candy Cane Mocha - 16oz,Make with Almond Milk,1.0,1.2
+Winter Drink Specials,Candy Cane Mocha - 16oz,Make with Oat Milk,1.0,1.2
+Winter Drink Specials,Gingerbread Latte - 12 oz,Whip Cream,1.0,0.0
+Winter Drink Specials,Gingerbread Latte - 12 oz,Extra Hot,1.0,0.0
+Winter Drink Specials,Gingerbread Latte - 12 oz,Decaf,4.0,0.0
+Winter Drink Specials,Gingerbread Latte - 12 oz,Make with Non-Fat Milk,3.0,0.0
+Winter Drink Specials,Gingerbread Latte - 12 oz,Make with Almond Milk,1.0,1.2
+Winter Drink Specials,Gingerbread Latte - 12 oz,Make with Oat Milk,6.0,7.2
+Winter Drink Specials,Gingerbread Latte - 12 oz,Make with Soy Milk,3.0,3.6
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 12oz,Whip Cream,6.0,0.0
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 12oz,Not too Hot,1.0,0.0
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 12oz,Extra Hot,1.0,0.0
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 12oz,Single Shot (1 extra),5.0,6.5
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 12oz,Make with Non-Fat Milk,1.0,0.0
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 12oz,Make with Oat Milk,3.0,3.6
+Winter Drink Specials,Candy Cane Mocha - 12 oz,Whip Cream,6.0,0.0
+Winter Drink Specials,Candy Cane Mocha - 12 oz,Decaf,4.0,0.0
+Winter Drink Specials,Candy Cane Mocha - 12 oz,Make with Almond Milk,1.0,1.2
+Winter Drink Specials,Candy Cane Mocha - 12 oz,Make with Oat Milk,1.0,1.2
+Winter Drink Specials,Eggnog Latte - 12oz,Decaf,3.0,0.0
+Winter Drink Specials,Eggnog Latte - 12oz,No Foam,1.0,0.0
+Winter Drink Specials,Eggnog Latte - 12oz,Make with Non-Fat Milk,2.0,0.0
+Winter Drink Specials,Candy Cane Hot Chocolate - 12oz,Whip Cream,11.0,0.0
+Winter Drink Specials,Candy Cane Hot Chocolate - 12oz,Not too Hot,2.0,0.0
+Winter Drink Specials,Candy Cane Hot Chocolate - 12oz,Make with Oat Milk,2.0,2.4
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 16oz,Whip Cream,6.0,0.0
+Winter Drink Specials,Ferrero Rocher Hot Chocolate - 16oz,Single Shot (1 extra),6.0,7.8
+Winter Drink Specials,Gingerbread Chai - 12oz,Oat Milk,5.0,2.5
+Winter Drink Specials,Gingerbread Chai - 12oz,Soy Milk,2.0,1.0
+Winter Drink Specials,Gingerbread Chai - 16oz,Soy Milk,1.0,0.5
+Winter Drink Specials,Snowy Matcha - 12oz,Soy Milk,2.0,1.0
+Winter Drink Specials,Chamomile Honey Latte - 16oz,Almond Milk,1.0,0.5
+Winter Drink Specials,Midnight Orange Mocha - 16oz,Decaf,2.0,0.0
+Winter Drink Specials,Midnight Orange Mocha - 16oz,Make with Almond Milk,1.0,1.2
+Winter Drink Specials,Midnight Orange Mocha - 16oz,Make with Oat Milk,3.0,3.6
+Winter Drink Specials,Chamomile Honey Latte - 12oz,Soy Milk,1.0,0.5
+Winter Drink Specials,Snowy Matcha - 16oz,Iced,2.0,0.0
+Winter Drink Specials,Snowy Matcha - 16oz,Oat Milk,1.0,0.5
+Winter Drink Specials,Snowy Matcha - 16oz,Soy Milk,1.0,0.5
+Winter Drink Specials,Snowy Matcha - 16oz,Almond Milk,1.0,0.5
+Winter Drink Specials,Midnight Orange Mocha - 12 oz,Decaf,2.0,0.0
+Winter Drink Specials,Midnight Orange Mocha - 12 oz,Make with Oat Milk,1.0,1.2
+Winter Drink Specials,Candy Cane Cold Brew,-,165.0,79.5
+Hot Chocolate,Hot Chocolate - Medium,Make in Dark Choc,3.0,0.0
+Hot Chocolate,Hot Chocolate - Medium,Whip Cream,91.0,0.0
+Hot Chocolate,Hot Chocolate - Medium,Not too Hot,4.0,0.0
+Hot Chocolate,Hot Chocolate - Medium,Pumpkin Spice,1.0,0.75
+Hot Chocolate,Hot Chocolate - Medium,Peppermint,1.0,0.75
+Hot Chocolate,Hot Chocolate - Medium,Make with Almond Milk,2.0,2.4
+Hot Chocolate,Hot Chocolate - Medium,Make with Oat Milk,5.0,6.0
+Hot Chocolate,Hot Chocolate - Medium,Make with Soy Milk,5.0,6.0
+Hot Chocolate,Hot Chocolate - Medium,Caramel,4.0,2.0
+Hot Chocolate,Kids Hot Chocolate,Sprinkles,2.0,0.5
+Hot Chocolate,Kids Hot Chocolate,Whip Cream,43.0,0.0
+Hot Chocolate,Kids Hot Chocolate,Not too Hot,4.0,0.0
+Hot Chocolate,Kids Hot Chocolate,Peppermint,1.0,0.75
+Hot Chocolate,Kids Hot Chocolate,Make with Oat Milk,1.0,1.2
+Hot Chocolate,Kids Hot Chocolate,Oat Milk,6.0,3.0
+Hot Chocolate,Kids Hot Chocolate,Make in Mix Choc,2.0,0.0
+Hot Chocolate,Hot Chocolate- Large,Make in White Choc,1.0,0.0
+Hot Chocolate,Hot Chocolate- Large,Whip Cream,45.0,0.0
+Hot Chocolate,Hot Chocolate- Large,Not too Hot,1.0,0.0
+Hot Chocolate,Hot Chocolate- Large,Extra Hot,2.0,0.0
+Hot Chocolate,Hot Chocolate- Large,Iced,3.0,0.0
+Hot Chocolate,Hot Chocolate- Large,Caramel,5.0,2.75
+Hot Chocolate,Hot Chocolate- Large,Hazelnut,2.0,1.5
+Hot Chocolate,Hot Chocolate- Large,Make with Non-Fat Milk,2.0,0.0
+Hot Chocolate,Hot Chocolate- Large,Make with Oat Milk,1.0,1.2
+Hot Chocolate,Hot Chocolate- Large,Make with Soy Milk,1.0,1.2
+Hot Chocolate,Steamed Milk - Small,Cinnamon,1.0,0.0
+Hot Chocolate,Steamed Milk - Small,Whip Cream,2.0,0.0
+Hot Chocolate,Steamed Milk - Small,Not too Hot,1.0,0.0
+Hot Chocolate,Steamed Milk - Small,Vanilla,3.0,2.25
+Hot Chocolate,Steamed Milk - Medium,Make with Non-Fat Milk,3.0,0.0
+Hot Chocolate,Steamed Milk - Medium,Whip Cream,2.0,0.0
+Hot Chocolate,Steamed Milk - Medium,Vanilla,5.0,4.0
+Hot Chocolate,Steamed Milk - Medium,Maple,1.0,0.75
+Hot Chocolate,Steamed Milk - Large,Vanilla,1.0,0.75
+Hot Chocolate,Steamed Milk - Large,Caramel,1.0,0.75
+Hot Chocolate,Steamed Milk - Large,Maple,1.0,0.75
+Hot Chocolate,Steamed Milk - Large,Make with Non-Fat Milk,1.0,0.0
+Hot Chocolate,Beet Hot Chocolate - Medium,-,260.0,39.25
+Fall Drink Specials,Pumpkin Spice Latte - Large,Make with Non-Fat Milk,4.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Large,Make with Oat Milk,8.0,9.6
+Fall Drink Specials,Pumpkin Spice Latte - Large,Make with Coconut Milk,2.0,2.4
+Fall Drink Specials,Pumpkin Spice Latte - Large,Iced,1.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Large,Decaf,12.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Large,Half Caf,3.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Large,Single Shot (1 extra),1.0,1.3
+Fall Drink Specials,Pumpkin Spice Latte - Large,Make with Almond Milk,8.0,9.6
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Make with Oat Milk,17.0,20.4
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Make with Coconut Milk,1.0,1.2
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Decaf,10.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Half Caf,1.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Single Shot (1 extra),1.0,1.3
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Iced,1.0,0.6
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Splash of Almond Milk,1.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Splash of Oat Milk,1.0,0.0
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Make with Almond Milk,2.0,2.4
+Fall Drink Specials,Pumpkin Spice Latte - Medium,Make with Soy Milk,1.0,1.2
+Fall Drink Specials,Pumpkin Spice Chai Latte - Large,Make with Oat Milk,4.0,4.8
+Fall Drink Specials,Pumpkin Spice Chai Latte - Large,Iced,2.0,0.0
+Fall Drink Specials,Pumpkin Spice Chai Latte - Large,Make with Soy Milk,1.0,1.2
+Fall Drink Specials,Pumpkin Spice Chai Latte - Large,Pumpkin Spice,2.0,2.0
+Fall Drink Specials,Pumpkin Spice Chai Latte - Medium,Make with Almond Milk,1.0,1.2
+Fall Drink Specials,Pumpkin Spice Chai Latte - Medium,Make with Oat Milk,2.0,2.4
+Fall Drink Specials,Pumpkin Spice Chai Latte - Medium,Make with Soy Milk,2.0,2.4
+Fall Drink Specials,Pumpkin Spice Chai Latte - Medium,Whip Cream,1.0,0.0
+Fall Drink Specials,Honey Nutmeg Latte - Medium,Decaf,2.0,0.0
+Fall Drink Specials,Honey Nutmeg Latte - Medium,Half Caf,1.0,0.0
+Fall Drink Specials,Honey Nutmeg Latte - Medium,Make with Oat Milk,2.0,2.4
+Fall Drink Specials,Honey Nutmeg Latte - Large,Decaf,2.0,0.0
+Fall Drink Specials,Honey Nutmeg Latte - Large,Splash of Non-fat Milk,2.0,0.0
+Fall Drink Specials,Honey Nutmeg Latte - Large,Make with Oat Milk,3.0,3.6
+Fall Drink Specials,Honey Nutmeg Latte - Large,Make with Soy Milk,1.0,1.2
+Fall Drink Specials,Salted Carmel Hot Chocolate - Large,Whip Cream,2.0,0.0
+Fall Drink Specials,Salted Carmel Hot Chocolate - Large,Make with Non-Fat Milk,1.0,0.0
+Fall Drink Specials,Salted Carmel Hot Chocolate - Medium,Whip Cream,5.0,0.0
+Fall Drink Specials,Salted Carmel Hot Chocolate - Medium,Splash of Non-fat Milk,1.0,0.0
+Fall Drink Specials,Salted Carmel Hot Chocolate - Medium,Make with Oat Milk,1.0,1.2
+Fall Drink Specials,Salted Carmel Hot Chocolate - Medium,Make with Soy Milk,1.0,1.2
+Fall Drink Specials,Pumpkin White Mocha - Large,Decaf,4.0,0.0
+Fall Drink Specials,Pumpkin Cream Cold Brew,Iced,1.0,0.0
+Fall Drink Specials,Pumpkin White Mocha  - Medium,Decaf,2.0,0.0
+Fall Drink Specials,Pumpkin Spice Fog - Large,Decaf,1.0,0.0
+Fall Drink Specials,Butterscotch Hot Chocolate - Medium,-,122.0,73.6
+Retail Items,Alt. Milk,-,,0.0
+Barista Comp Drinks,Pish. Rose - Large,Iced,7.0,0.0
+Barista Comp Drinks,Pish. Rose - Large,Decaf,6.0,0.0
+Barista Comp Drinks,Pish. Rose - Large,Double Shots (2 extra),1.0,2.0
+Barista Comp Drinks,Pish. Rose - Large,Make with Almond Milk,6.0,7.2
+Barista Comp Drinks,Pish. Rose - Large,Make with Oat Milk,6.0,7.2
+Barista Comp Drinks,Miso Vanilla - Large,Iced,5.0,0.0
+Barista Comp Drinks,Miso Vanilla - Large,Decaf,2.0,0.0
+Barista Comp Drinks,Miso Vanilla - Large,Make with Oat Milk,4.0,4.8
+Barista Comp Drinks,Miso Vanilla - Large,Make with Soy Milk,1.0,1.2
+Barista Comp Drinks,Rosey Matcha - Large,Iced,11.0,0.0
+Barista Comp Drinks,Rosey Matcha - Large,Cold Foam,1.0,1.25
+Barista Comp Drinks,Rosey Matcha - Large,Make with Almond Milk,4.0,4.8
+Barista Comp Drinks,Rosey Matcha - Large,Make with Oat Milk,2.0,2.4
+Barista Comp Drinks,Pist. Rose - Medium,Iced,1.0,0.0
+Barista Comp Drinks,Pist. Rose - Medium,Decaf,3.0,0.0
+Barista Comp Drinks,Pist. Rose - Medium,Make with Oat Milk,4.0,4.8
+Barista Comp Drinks,Pist. Rose - Medium,Make with Coconut Milk,1.0,1.2
+Barista Comp Drinks,Choco Chai - Large,Iced,4.0,0.0
+Barista Comp Drinks,Rosey Matcha - Medium,Sprinkles,1.0,0.25
+Barista Comp Drinks,Rosey Matcha - Medium,Make with Non-Fat Milk,1.0,0.0
+Barista Comp Drinks,Rosey Matcha - Medium,Make with Almond Milk,1.0,1.2
+Barista Comp Drinks,Miso Vanilla - Medium,Make with Non-Fat Milk,1.0,0.0
+Barista Comp Drinks,Miso Vanilla - Medium,Make with Oat Milk,1.0,1.2
+Barista Comp Drinks,Miso Vanilla - Medium,-,74.0,39.5
+Summer Specials,Neapolitan Latte - 16oz,Whip Cream,2.0,0.0
+Summer Specials,Neapolitan Latte - 16oz,Iced,14.0,0.0
+Summer Specials,Neapolitan Latte - 16oz,Single Shot (1 extra),1.0,1.5
+Summer Specials,Neapolitan Latte - 16oz,Make with Non-Fat Milk,1.0,0.0
+Summer Specials,Neapolitan Latte - 16oz,Make with Oat Milk,4.0,4.0
+Summer Specials,Salted Honey Latte - 16oz,Iced,6.0,0.0
+Summer Specials,Salted Honey Latte - 16oz,Decaf,1.0,0.0
+Summer Specials,Salted Honey Latte - 16oz,Single Shot (1 extra),1.0,1.5
+Summer Specials,Salted Honey Latte - 16oz,Make with Oat Milk,5.0,5.0
+Summer Specials,Strawberry Matcha -16oz,Iced,5.0,0.0
+Summer Specials,Strawberry Matcha -16oz,Vanilla Cold Foam,1.0,1.25
+Summer Specials,Strawberry Matcha -16oz,Make with Non-Fat Milk,1.0,0.0
+Summer Specials,Strawberry Matcha -16oz,Make with Almond Milk,1.0,1.0
+Summer Specials,Strawberry Matcha -16oz,Make with Oat Milk,1.0,1.0
+Summer Specials,Strawberry Matcha -16oz,Make with Soy Milk,1.0,1.0
+Summer Specials,Floral Latte - 16oz,Iced,1.0,0.0
+Summer Specials,Wildberry Smoothie,-,46.0,16.25
+Valentines Menu,Rose Petal Tea Latte - 12 Oz,Oat Milk,3.0,1.5
+Valentines Menu,Rose Petal Tea Latte - 12 Oz,Soy Milk,1.0,0.5
+Valentines Menu,Iced Pink Cloud Matcha,Make with Oat Milk,1.0,1.2
+Valentines Menu,Iced Pink Cloud Matcha,Make with Soy Milk,1.0,1.2
+Valentines Menu,Pink Mocha - 12 Oz,Make with Almond Milk,3.0,3.6
+Valentines Menu,Pink Mocha - 12 Oz,Make with Oat Milk,2.0,2.4
+Valentines Menu,Pink Hot Chocolate - 16 Oz,Make with Oat Milk,1.0,1.2
+Valentines Menu,Pink Hot Chocolate - 16 Oz,-,12.0,11.6
+Blended Drinks,Frozen Mocha,No whip,2.0,0.0
+Blended Drinks,Frozen Matcha,No whip,1.0,0.0
+Blended Drinks,Mocha Frappe,Whip Cream,1.0,0.0
+Blended Drinks,Matcha Frappe,Whip Cream,1.0,0.0
+Blended Drinks,Frozen Chai,Double Shots (2 extra),1.0,2.0
+Blended Drinks,Frozen Chai,-,6.0,2.0
+Coffee Muffin Deal,12 Oz + MUFFIN,Room for Cream/Milk,2.0,0.0
+Coffee Muffin Deal,16 Oz + Muffin,Splash of Oat Milk,1.0,0.0
+Coffee Muffin Deal,16 Oz + Muffin,-,3.0,0.0
+Cold Brew,Cold Brew,Add Oat Milk,1.0,0.0
+Cold Brew,Cold Brew,Vanilla,6.0,4.75
+Cold Brew,Cold Brew,Splash of Oat Milk,3.0,0.0
+Cold Brew,Cold Brew,Add Cream,2.0,0.0
+Cold Brew,Cold Brew,Add Almond Milk,1.0,0.0
+Cold Brew,Cold Brew,Pure Cane Sugar,1.0,0.0
+Cold Brew,Cold Brew Macchiato,-,14.0,4.75
+Blended Swinters,Honey Bee,-,,0.0
+Salads,Agreenable WITH EGG,-,,0.0
+Misc.,BAG FEE,-,,0.0
+Merch Retail,Oatly Oat Drink,-,,0.0
+No Print,:),-,,0.0
+TO GO?,To Go,-,,0.0
+TO GO?,To Go,-,,3996.9

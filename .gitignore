@@ -1,0 +1,33 @@
+# ---- PRIVACY GUARDS: client material must never be committed ----
+# Raw POS exports and anything that is not the anonymized aggregate
+data/*
+!data/orders_hourly.csv
+!data/items_summary.csv
+!data/item_modifiers.csv
+orders[0-9]*.csv
+Orders-*.csv
+*Revenue*Item*Sales*.csv
+revenue-items-sale.csv
+*.pkl
+# Client onboarding / discovery material and original decks
+onboarding/
+*.key
+presentation_charts/
+analysis_roadmap.md
+# Only the anonymized presentation.pdf may be tracked; block other PDFs
+*.pdf
+!presentation.pdf
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.DS_Store
